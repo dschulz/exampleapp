@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/pixmaps/cancel.png</file>
+        <file>resources/pixmaps/connect.png</file>
+        <file>resources/pixmaps/remove.png</file>
+        <file>resources/pixmaps/save.png</file>
+        <file>resources/pixmaps/settings.png</file>
+        <file>resources/pixmaps/next.png</file>
+        <file>resources/pixmaps/previous.png</file>
+        <file>resources/pixmaps/application.png</file>
+        <file>resources/pixmaps/cascade.png</file>
+        <file>resources/pixmaps/close.png</file>
+        <file>resources/pixmaps/mdimode.png</file>
+        <file>resources/pixmaps/tile.png</file>
+        <file>resources/pixmaps/password.png</file>
+        <file>resources/pixmaps/params.png</file>
+        <file>resources/pixmaps/info.png</file>
+        <file>resources/pixmaps/user.png</file>
+        <file>resources/pixmaps/group.png</file>
+        <file>ts/ExampleApp_es.qm</file>
+        <file>resources/pixmaps/shutdown.png</file>
+    </qresource>
+</RCC>
